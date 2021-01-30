@@ -30,6 +30,7 @@ versions:
   Bundler version 1.13.7
   ```
   
+  
   - Install keycutter to manage multiple credentials. To install keycutter:
   ```shell
   $ gem install keycutter
